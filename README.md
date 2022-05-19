@@ -1,4 +1,4 @@
-# Restaurant
+# FreeTable
 
 ### Restaurant es una herramienta que permite gestionar pedidos para una mesa de un restaurante.
 
